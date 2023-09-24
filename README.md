@@ -38,4 +38,4 @@ Este projeto está licenciado sob a Licença MIT.
 ## Créditos
 
 - Ícone por [Nome do Autor](link)
-- Library SteamAuth por [Nome do Autor]([link](https://github.com/geel9/SteamAuth)https://github.com/geel9/SteamAuth)
+- Library SteamAuth por [Nome do Autor](https://github.com/geel9/SteamAuth))
