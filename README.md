@@ -20,7 +20,7 @@ Para instalar o projeto, siga estas etapas:
 
 ## Use
 
-[![Open in Visual Studio Community](https://img.shields.io/badge/Open%20in-Visual%20Studio%20Community-blue?style=for-the-badge)](https://github.com/LennonSouza/AddSteamMobileAuthenticator)
+[![Open in Visual Studio Community](https://img.shields.io/badge/Open%20in-Visual%20Studio%20Community-blue?style=for-the-badge)](git-client://clone?repo=https://github.com/LennonSouza/AddSteamMobileAuthenticator)
 
 
 ## Contributions
