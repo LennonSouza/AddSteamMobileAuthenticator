@@ -15,13 +15,13 @@ I decided to create this project so that more people have easier access to linki
 
 ## Instalation
 
-Para instalar o projeto, siga estas etapas:
+To install the project, follow these steps:
 
-1. Clone o repositório: `git clone https://github.com/LennonSouza/AddSteamMobileAuthenticator.git`
+1. Clone the repository: `git clone https://github.com/LennonSouza/AddSteamMobileAuthenticator.git`
 
 ## Use
 
-
+Run once to create folders
 
 ## Contributions
 
