@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Main));
             txt_API = new TextBox();
             txt_UrlPhone = new TextBox();
             txt_UrlMail = new TextBox();
@@ -142,6 +143,7 @@
             Controls.Add(txt_UrlMail);
             Controls.Add(txt_UrlPhone);
             Controls.Add(txt_API);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MaximumSize = new Size(495, 472);
             Name = "Frm_Main";

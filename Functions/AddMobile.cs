@@ -113,6 +113,7 @@ namespace AddSteamMobileAuthenticator.Functions
                                            $"Pass: {info.Split(":")[1]}\n" +
                                            $"Mail: {info.Split(":")[2]}\n" +
                                            $"Mail Pass: {info.Split(":")[3]}\n" +
+                                           $"Phone Number: {number}\n" +
                                            $"Rcode: {linker.LinkedAccount.RevocationCode}\n" +
                                            $"CodeSMS: {code}\n" +
                                            $"CodeMail: {codeEmail}\n" +
