@@ -6,21 +6,19 @@ Este é um projeto incrível que faz coisas incríveis. Ele resolve problemas co
 
 ## Tabela de Conteúdo
 
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Créditos](#créditos)
-- [Contato](#contato)
+- [Instalation](#Instalation)
+- [Use](#Use)
+- [Contributions](#Contributions)
+- [LibrarysCredits](#LibrarysCredits)
 
-## Instalação
+## Instalation
 
 Para instalar o projeto, siga estas etapas:
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
 2. Instale as dependências: `npm install`
 
-## Uso
+## Use
 
 Para usar o projeto, siga estas etapas:
 
@@ -31,7 +29,7 @@ Para usar o projeto, siga estas etapas:
 
 Contributions are welcome! If you want to contribute
 
-## Librarys Credits
+## LibrarysCredits
 
 - Library SteamKit2 [SteamRE](https://github.com/SteamRE/SteamKit)
 - Library SteamAuth [geel9](https://github.com/geel9/SteamAuth)
