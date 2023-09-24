@@ -1,10 +1,10 @@
 # <center>Meu Projeto Incrível</center>
 
-## Descrição
+## Description
 
-Este é um projeto incrível que faz coisas incríveis. Ele resolve problemas complexos e torna a vida mais fácil.
+I decided to create this project so that more people have easier access to linking many accounts to Steam Mobile
 
-## Tabela de Conteúdo
+## Table of Contents
 
 - [Instalation](#Instalation)
 - [Use](#Use)
@@ -20,10 +20,8 @@ Para instalar o projeto, siga estas etapas:
 
 ## Use
 
-Para usar o projeto, siga estas etapas:
+[![Open in Visual Studio Community](https://img.shields.io/badge/Open%20in-Visual%20Studio%20Community-blue?style=for-the-badge)](vscode://file/path/to/your/repo)
 
-1. Execute o comando: `npm start`
-2. Abra o navegador e acesse: `http://localhost:3000`
 
 ## Contributions
 
