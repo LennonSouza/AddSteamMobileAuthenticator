@@ -38,8 +38,4 @@ Este projeto está licenciado sob a Licença MIT.
 ## Créditos
 
 - Ícone por [Nome do Autor](link)
-- Biblioteca XYZ por [Nome do Autor](link)
-
-## Contato
-
-Você pode me encontrar no Twitter [@seu-usuario](https://twitter.com/seu-usuario) ou por e-mail em seu@email.com.
+- Library SteamAuth por [Nome do Autor]([link](https://github.com/geel9/SteamAuth)https://github.com/geel9/SteamAuth)
