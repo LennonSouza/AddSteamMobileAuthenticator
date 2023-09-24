@@ -21,7 +21,7 @@ Para instalar o projeto, siga estas etapas:
 
 ## Use
 
-
+Run once to create folders
 
 ## Contributions
 
