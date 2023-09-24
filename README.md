@@ -27,15 +27,13 @@ Para usar o projeto, siga estas etapas:
 1. Execute o comando: `npm start`
 2. Abra o navegador e acesse: `http://localhost:3000`
 
-## Contribuição
+## Contributions
 
-Contribuições são bem-vindas! Se você deseja contribuir, siga estas diretrizes.
+Contributions are welcome! If you want to contribute
 
-## Licença
+## Librarys Credits
 
-Este projeto está licenciado sob a Licença MIT.
-
-## Créditos
-
-- Ícone por [Nome do Autor](link)
-- Library SteamAuth por [Nome do Autor](https://github.com/geel9/SteamAuth))
+- Library SteamKit2 [SteamRE](https://github.com/SteamRE/SteamKit)
+- Library SteamAuth [geel9](https://github.com/geel9/SteamAuth)
+- Library MailKit [jstedfast](https://github.com/jstedfast/MailKit)
+- Library Newtonsoft.Json [filipnavara](https://github.com/JamesNK/Newtonsoft.Json)
