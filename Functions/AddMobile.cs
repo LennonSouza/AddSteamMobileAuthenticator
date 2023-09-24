@@ -78,7 +78,7 @@ namespace AddSteamMobileAuthenticator.Functions
 
             try
             {
-                if (confirmation != "GeneralFailure") 
+                if (confirmation != "GeneralFailure")
                 {
                     if (confirmation == "AwaitingFinalization")
                     {
@@ -109,13 +109,15 @@ namespace AddSteamMobileAuthenticator.Functions
                         {
                             ConsoleHelper.LogSuccess($"Added Guard Success: {info.Split(':')[0]}");
 
-
-                            string dados = $"Numero: {number}\n" +
+                            string dados = $"Login: {info.Split(":")[0]}\n" +
+                                           $"Pass: {info.Split(":")[1]}\n" +
+                                           $"Mail: {info.Split(":")[2]}\n" +
+                                           $"Mail Pass: {info.Split(":")[3]}\n" +
                                            $"Rcode: {linker.LinkedAccount.RevocationCode}\n" +
                                            $"CodeSMS: {code}\n" +
-                                           $"CodeEmail: {codeEmail}\n" +
+                                           $"CodeMail: {codeEmail}\n" +
                                            $"urlConfirmation: {urlConfirmation}\n" +
-                                           $"Data Add Guard: {DateTime.Now}";
+                                           $"Date Add Guard: {DateTime.Now}";
 
                             File.WriteAllText($"{CheckDirectory.FolderSteamGuard_Done}{info.Split(':')[0]}.txt", dados);
                             File.Delete(filePath);
