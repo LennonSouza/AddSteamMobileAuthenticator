@@ -17,12 +17,10 @@ I decided to create this project so that more people have easier access to linki
 
 Para instalar o projeto, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Instale as dependências: `npm install`
+1. Clone o repositório: `git clone https://github.com/LennonSouza/AddSteamMobileAuthenticator.git`
 
 ## Use
 
-[![Open in Visual Studio Community](git-client://clone?repo=https%3A%2F%2Fgithub.com%2FLennonSouza%2FAddSteamMobileAuthenticator)](https://img.shields.io/badge/Open%20in-Visual%20Studio%20Community-blue?style=for-the-badge)
 
 
 ## Contributions
